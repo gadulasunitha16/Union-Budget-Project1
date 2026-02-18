@@ -1,5 +1,16 @@
 
 # Empowering India: Analysing the Evolution of Union Budget Allocations for Sustainable Growth
+## 👥 Team Details
+Team ID: LTVIP2026TMIDS36289  
+Team Size: 4  
+
+Team Leader: Sunitha Gadula  
+
+Team Members:
+- Swathi Alluri
+- B Nagalalitha
+- Thumu Sai Sreevani
+
 
 ## 📌 Project Description
 This project analyzes the Union Budget allocations from 2021 to 2024 to understand government spending trends and their impact on sustainable economic growth in India. The analysis is visualized using interactive dashboards.
