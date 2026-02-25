@@ -33,13 +33,4 @@ https://drive.google.com/file/d/1EJYCOiYw09tQUYMeS3jkeFDlaMn5VhmU/view?usp=drive
 ## 📽 Presentation
 Project presentation slides:  
 https://docs.google.com/presentation/d/1EMvLHeuUcDRwKfSyjMDiuWL8gq4AVnRy/edit?usp=drivesdk&ouid=100783273723054685786&rtpof=true&sd=true
-## 👥 Team Details
-Team ID: LTVIP2026TMIDS36289  
-Team Size: 4  
 
-Team Leader: Sunitha Gadula  
-
-Team Members:
-- Swathi Alluri
-- B Nagalalitha
-- Thumu Sai Sreevani
